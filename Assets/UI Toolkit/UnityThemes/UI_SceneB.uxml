@@ -1,0 +1,8 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles.uss?fileID=7433441132597879392&amp;guid=417471d778e585bcfae089da83ab2306&amp;type=3#Styles"/>
+    <ui:VisualElement name="Container" class="container" style="flex-grow: 1;">
+        <ui:Image name="Backgorund" class="image" style="background-color: rgb(141, 38, 34); height: 1080px; display: flex;"/>
+        <ui:Label text="Current : Scene_B" name="CurrentScene_Name" double-click-selects-word="false" display-tooltip-when-elided="false" triple-click-selects-line="false" emoji-fallback-support="false" enable-rich-text="false" style="display: flex; font-size: 55px; -unity-font-style: bold; position: absolute; top: 396px; left: 688px;"/>
+        <ui:Button text="Go Scene A" double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" emoji-fallback-support="false" name="Change_Scene" style="position: absolute; font-size: 50px;"/>
+    </ui:VisualElement>
+</ui:UXML>

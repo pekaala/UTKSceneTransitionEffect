@@ -1,0 +1,7 @@
+<ui:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Styles.uss?fileID=7433441132597879392&amp;guid=417471d778e585bcfae089da83ab2306&amp;type=3#Styles"/>
+    <ui:VisualElement name="Container" class="container" style="flex-grow: 1;">
+        <ui:Image name="Background_Image" class="image" style="background-color: rgb(112, 98, 98); -unity-material: url(&quot;&quot;); position: absolute;"/>
+        <ui:Label text="Loading..." double-click-selects-word="false" triple-click-selects-line="false" display-tooltip-when-elided="false" name="Loading_Label" style="font-size: 55px; -unity-font-style: bold; position: absolute; top: 950px; left: 1500px; bottom: auto; -unity-text-align: upper-right;"/>
+    </ui:VisualElement>
+</ui:UXML>
