@@ -17,4 +17,3 @@
 ### Scanline Efffect
 
 ![Scanline_Effect](Contents/scanline_effect.gif)
-# UTKSceneTransitionEffect
