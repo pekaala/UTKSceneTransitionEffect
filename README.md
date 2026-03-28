@@ -6,7 +6,7 @@
 
 ## Effect Types
 
-### Noise
+### Noise Effect
 
 ![Noise_Effect](Contents/noise_effect.gif)
 
