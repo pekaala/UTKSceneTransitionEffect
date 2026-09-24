@@ -14,10 +14,10 @@
 
 ![Noise_Effect](Contents/noise_effect.gif)
 
-### Glitch Efffect
+### Glitch Effect
 
 ![Glitch_Effect](Contents/glitch_effect.gif)
 
-### Scanline Efffect
+### Scanline Effect
 
 ![Scanline_Effect](Contents/scanline_effect.gif)
